@@ -1,9 +1,9 @@
 # Nightfall
 
-Nightfall integrates a set of smart contracts and microservices, and the ZoKrates zk-snark toolkit,
+Nightfall integrates a set of smart contracts and microservices, and the ZoKrates zk-SNARKs toolkit,
 to enable standard ERC-20 and ERC-721 tokens to be transacted on the Ethereum blockchain with
 complete privacy. It is an experimental solution and still being actively developed. We decided to
-share our research work in the belief that this will speed adoption of public blockchains. This is
+share our research work in the belief that this will speed-up the adoption of public blockchains. This is
 not intended to be a production-ready application and we do not recommend that you use it as such.
 If it accelerates your own work, then we are pleased to have helped. We hope that people will feel
 motivated to contribute their own ideas and improvements.
